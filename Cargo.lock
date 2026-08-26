@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "ex01_basics"
 version = "0.1.0"
+
+[[package]]
+name = "ex02_functions"
+version = "0.1.0"
