@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "ex04_enums"
 version = "0.1.0"
+
+[[package]]
+name = "ex05_ownershop"
+version = "0.1.0"
