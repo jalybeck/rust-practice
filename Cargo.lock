@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "ex03_structs"
 version = "0.1.0"
+
+[[package]]
+name = "ex04_enums"
+version = "0.1.0"
