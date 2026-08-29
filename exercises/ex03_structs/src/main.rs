@@ -99,6 +99,7 @@ impl Player {
 
 fn main() {
     println!("Exercise 03: Structs");
+    println!("-------------------");
 
     println!("Creating items...");
     let sword = Item::new("Sword".to_string(), 1, "Weapon".to_string(), 10);
