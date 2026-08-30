@@ -1,0 +1,4 @@
+name=Alice
+level=12
+hp=85
+gold=420

@@ -29,3 +29,7 @@ version = "0.1.0"
 [[package]]
 name = "ex07_collections"
 version = "0.1.0"
+
+[[package]]
+name = "ex08_error_handling"
+version = "0.1.0"
