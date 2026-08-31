@@ -41,3 +41,7 @@ version = "0.1.0"
 [[package]]
 name = "ex10_generics"
 version = "0.1.0"
+
+[[package]]
+name = "ex11_lifetimes"
+version = "0.1.0"
