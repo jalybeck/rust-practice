@@ -53,3 +53,7 @@ version = "0.1.0"
 [[package]]
 name = "ex13_closures_iterators"
 version = "0.1.0"
+
+[[package]]
+name = "ex14_testing"
+version = "0.1.0"
