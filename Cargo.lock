@@ -45,3 +45,7 @@ version = "0.1.0"
 [[package]]
 name = "ex11_lifetimes"
 version = "0.1.0"
+
+[[package]]
+name = "ex12_modules"
+version = "0.1.0"
