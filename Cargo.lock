@@ -66,5 +66,9 @@ dependencies = [
 ]
 
 [[package]]
+name = "ex16_threads"
+version = "0.1.0"
+
+[[package]]
 name = "utils"
 version = "0.1.0"
